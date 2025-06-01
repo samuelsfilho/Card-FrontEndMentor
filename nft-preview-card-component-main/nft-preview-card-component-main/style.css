@@ -1,0 +1,64 @@
+main {
+  background-color: hsl(217, 54%, 11%);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagem {
+  width: 300px;
+  margin-left: 20px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  
+}
+
+.card {
+  max-width: 346px;
+  background-color: hsl(216, 50%, 16%);
+}
+
+.titulo  {
+  color: #ffffff;
+  margin-left: 20px;
+}
+
+.about {
+  color: hsl(215, 32%, 27%);
+  margin-left: 20px;
+  margin-top: 10px;
+  
+}
+ 
+
+.info {
+  color:  hsl(178, 100%, 50%);
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-right: 10px;
+  
+} 
+
+.autor {
+  display: flex;
+  margin-top: 20px;
+}
+
+.avatar {
+  width: 50px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.creator {
+  margin-left: 10px;
+  margin-top: 15px;
+  color: hsl(215, 32%, 27%);
+}
+
+.name {
+  color: #ffffff;
+}
